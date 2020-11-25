@@ -1,0 +1,5 @@
+# ls aliases
+alias ll='ls -laFG'
+
+# home dir
+alias cdr="cd ~"
